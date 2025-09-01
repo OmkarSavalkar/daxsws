@@ -1,0 +1,8 @@
+.link {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.login-button {
+  padding: 5px 30px !important;
+}
